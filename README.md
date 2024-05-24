@@ -1,7 +1,7 @@
 Ahen is a web application built with React that caters to driving schools by offering features to manage students, lessons, and payments.
 
 # Functionality 
-### User Management:- 
+### User Management:
 Students can register with email and password.
 Admins have a separate login for managing the system.
 ### Authentication:
