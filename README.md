@@ -5,7 +5,7 @@ Ahen is a web application built with React that caters to driving schools by off
 Students can register with email and password.
 Admins have a separate login for managing the system.
 ### Authentication:
-Firebase handles user authentication (login / signup) for secure access.
+Firebase handles user authentication (login/signup) for secure access.
 ### Payment Integration:
 Razorpay API allows students to make secure online payments for lessons or packages.
 ### Student Forms:
