@@ -32,4 +32,5 @@ Automates manual tasks and centralizes data for easier access and management.
 Develop an admin dashboard to manage student data, lessons, and potentially view payment history.
 Implement functionalities for scheduling lessons or booking appointments.
 Integrate a notification system to remind students of upcoming lessons or send updates.
+
 Explore deploying the application to a web hosting platform to make it publicly accessible.
