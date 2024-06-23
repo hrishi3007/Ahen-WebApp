@@ -28,7 +28,6 @@ Ahen helps manage student registrations, track lesson progress, and potentially 
 Razorpay integration allows students to pay for lessons or packages conveniently online.
 ### Improved Efficiency: 
 Automates manual tasks and centralizes data for easier access and management.
-
 # Next Steps
 Develop an admin dashboard to manage student data, lessons, and potentially view payment history.
 Implement functionalities for scheduling lessons or booking appointments.
